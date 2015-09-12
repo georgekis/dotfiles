@@ -3,6 +3,7 @@ alias deploy='./run.py -m && appcfg.py update main --oauth2'
 alias dot='cd ~/work/dotfiles'
 alias salary='cd ~/work/salary'
 alias physio='cd ~/work/physio'
+alias adosej='cd ~/work/adosej'
 
 # The next line updates PATH for the Google Cloud SDK.
 source /Users/gkis/google-cloud-sdk/path.bash.inc
